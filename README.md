@@ -30,3 +30,5 @@ Depois da pasta ser movida para o local designado no passo anterior, ao acessar 
 ##
 
 Se seguiu todos os passos acima já pode acessar o sistema <a href="http://localhost/galeria">clicando aqui</a>
+<br /> <br />
+`NOTA:` Na raíz do projeto, a pasta _"static"_ e o arquivo _"index.html"_ foram arquivos gerados pelo [front-end criado com REACT](https://github.com/Francisco-Fetapi/react-galeria), eles estão desaclopados do projeto.

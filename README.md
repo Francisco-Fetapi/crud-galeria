@@ -1,5 +1,12 @@
 # Galeria
-🚀 _Criado para fins de estudo_
+<p align="center">
+<a href="https://github.com/Francisco-Fetapi/crud-galeria/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Francisco-Fetapi/crud-galeria?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/crud-galeria"><img alt="GitHub license" src="https://img.shields.io/badge/Exercise-For%20trainning-orange"></a>
+<a href="https://github.com/Francisco-Fetapi/crud-galeria/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Francisco-Fetapi/crud-galeria?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/crud-galeria/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Francisco-Fetapi/crud-galeria?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/crud-galeria"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/crud-galeria?style=plastic"></a>
+</p>
+
 
 Criado nos _meados de 2021_  para aprimorar os conhecimentos em `REACT + PHP`. Este projeto é basicamente um CRUD de fotos. 
 <br /> <br />
